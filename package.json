@@ -1,0 +1,31 @@
+{
+  "name": "libp2p-js-sample",
+  "version": "1.0.0",
+  "description": "This is a simple project using libp2p with its js library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehranabi/libp2p-js-sample.git"
+  },
+  "keywords": [
+    "libp2p",
+    "js-libp2p",
+    "peer-to-peer",
+    "networking",
+    "p2p"
+  ],
+  "author": "Mehran Abghari <mehran.ab80@gmail.com> (https://github.com/mehranabi)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mehranabi/libp2p-js-sample/issues"
+  },
+  "homepage": "https://github.com/mehranabi/libp2p-js-sample#readme",
+  "dependencies": {
+    "@nodeutils/defaults-deep": "^1.1.0",
+    "libp2p": "^0.25.2",
+    "libp2p-tcp": "^0.13.0"
+  }
+}
